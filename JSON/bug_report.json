@@ -1,0 +1,11 @@
+{
+    "id":"figure",
+    "title":"what?where?when?",
+    "severity":"importance",
+    "preconditions":"done before",
+    "str":{"1_step":"first step description",
+           "2_step":"second step description"},
+    "er":"expected_result",
+    "ar":"actual_result",
+    "attachment":"video"    
+}
